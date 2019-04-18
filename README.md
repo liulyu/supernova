@@ -1,4 +1,4 @@
-# autumn_rains_music
+# supernova-music
 
 > 一个vue的播放器
 
