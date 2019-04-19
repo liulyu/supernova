@@ -1,7 +1,7 @@
 <template>
     <div class="m-header">
         <div class="icon"></div>
-        <h1 class="text">supernova-music</h1>
+        <h1 class="text">supernova1-music</h1>
         <router-link to="/user" tag="div" class="mine">
             <span class="icon-mine"></span>
         </router-link>
